@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunny Creado aka Spooky</h1>
 <h3 align="center">As a passionate Machine Learning Enthusiast, I am constantly seeking to deepen my knowledge and expertise in this exciting field. Although I am just starting out, I am fully committed to gaining a deep understanding of the principles and techniques of ML. I am constantly seeking out new resources, tutorials, and courses to expand my knowledge and skills.</h3>
 
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnycreado&label=Profile%20views&color=0e75b6&style=flat" alt="sunnycreado" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunnycreado&label=Profile%20views&color=0e75b6&style=flat" alt="sunnycreado" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycreado" alt="sunnycreado" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycreado" alt="sunnycreado" /></a> </p>
 
 - 🔭 I’m currently working on **PyDeploy: Dockerizing and deploying Python projects to Docker images for deployment.**
 
