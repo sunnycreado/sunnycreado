@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycreado" alt="sunnycreado" /></a> </p>
 
-- 🔭 I’m currently working on **PyDeploy: Dockerizing and deploying Python projects to Docker images for deployment.**
+- 🔭 I’m currently working on **Reinforcement Learning : NEAT ALGORITHM**
 
-- 🌱 I’m currently learning **Azure , NLP**
+- 🌱 I’m currently learning **GEN AI , LLM , Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
